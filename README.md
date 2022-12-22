@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/Osithu/Osithu/blob/e7d8ca94fc87745dea4a8c6b975a252392c583c5/p5ABhXzv7zi2hpXB8Pjcz5.jpg" align="center" style="width: 100%" />
+<img src="https://github.com/Osithu/Osithu/blob/b4184baa463ea536eebbeebc85c63755e23379d8/Colorful%20Neon%20Welcome%20To%20My%20Channel%20Youtube%20Intro%20Video%20(1).mp4 />
 </div>  
   
 
