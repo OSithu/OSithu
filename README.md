@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https:p5ABhXzv7zi2hpXB8Pjcz5.jpg />
+<img src="https://github.com/Osithu/Osithu/blob/e7d8ca94fc87745dea4a8c6b975a252392c583c5/p5ABhXzv7zi2hpXB8Pjcz5.jpg" align="center" style="width: 100%" />
 </div>  
   
 
