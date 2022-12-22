@@ -1,5 +1,5 @@
 <div align="center">
-<img src="" align="center" style="width: 100%" />
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.space.com%2F32982-best-astronomy-books.html&psig=AOvVaw1VddhtmsbEyW2MoB1LXqxN&ust=1671775363574000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJj8x9zGjPwCFQAAAAAdAAAAABAE" align="center" style="width: 100%" />
 </div>  
   
 
@@ -62,7 +62,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=&hide_border=true&layout=compact" align="center" /></div>  
+  
 
 <br/>  
 
