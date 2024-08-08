@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🌱 I’m currently learning Software Engineering @SLIIT<br><br>🔭 I have crazy about Astronomy<br><br>📫 How to reach me oshansithuruwan@gmail.com<br><br>⚡ Fun fact: I originally got into coding to automate my chores! 
+<br>🌱 I’m currently learning Software Engineering @SLIIT - Student ID: IT22368348- <br><br>🔭 I have crazy about Astronomy<br><br>📫 How to reach me oshansithuruwan@gmail.com<br><br>⚡ Fun fact: I originally got into coding to automate my chores! 
 
 
 ## 🌐 Socials:
